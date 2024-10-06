@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ ˹𝙰ɴɴ𝚒 ꭙ ʀσʙσᴛ ˼ ♪ - ᴍᴜsɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ GOKU🇽Edition ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -17,7 +17,7 @@
 ------
 <h3 align="center">
 
-  [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
+  [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://t.me/GOKUxEDITION)
   
   ![GitHub forks](https://img.shields.io/github/forks/The-HellBot/Music?style=social)
   ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Music?style=social)
