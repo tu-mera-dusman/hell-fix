@@ -34,6 +34,15 @@
 </h3>
 
 ------
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+
+<p align="center">
+    <a href="https://dashboard.heroku.com/new?template=s:https://github.com/tu-mera-dusman/hell-fix">
+        <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+    </a>
+</p>
+
 ## 🎶 HellBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
 
 🎶 HellBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
